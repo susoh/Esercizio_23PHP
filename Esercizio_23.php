@@ -9,7 +9,7 @@
     <form action="riepilogo.php" method="GET">
     Nome: <input type="text" name="name"><br>
     Cognome: <input type="text" name="surname"><br>
-    E-mail: <input type="text" name="email"><br>
+    E-mail: <input type="email" name="email"><br>
     <input type="submit">
 </form>
 </body>
